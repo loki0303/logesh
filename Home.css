@@ -1,0 +1,25 @@
+.car_nva{
+    position: relative;
+    right: 180px;
+    width: 130px;
+    top: 5px;
+}
+.car_img img{ 
+    background-size: 500px;
+    position: absolute;
+    top: 10px;
+    height: 700px;
+    width: 500px;
+
+}
+.car_main{
+    position: relative;
+}
+.indi_btn{
+    position: absolute;
+    top: 20px;
+}
+.btn_move{
+
+}
+
